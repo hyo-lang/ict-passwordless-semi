@@ -47,23 +47,15 @@
 
 | 구분 | 기술 |
 |------|------|
-| Frontend | React, Vite, Tailwind CSS |
-| Backend | Spring Boot, MyBatis |
+| Frontend | React,  CSS |
+| Backend | Spring Boot, JPA |
 | DBMS | OracleDB |
 | 인증 | JWT, Passwordless X.1280 |
 | 배포 | AWS EC2, Nginx |
-| 기타 | Redis (검색 최적화), Kakao API, Axios |
+| 기타 | Redis (검색 최적화), Naver API, Axios |
 
 ---
 
-## 🧑‍💻 팀 구성 및 개인 역할
-
-| 이름 | 주요 담당 기능 |
-|------|----------------|
-| 정효진 | 작가 커뮤니티 게시판 구현, 실시간 댓글 수 / 별점 평가 / 인기글 알고리즘 개발, 설문조사 CRUD 전체 개발, 날짜 포맷 표시(HH:mm, YYYY-MM-DD) |
-| 팀원 전체 | 회원관리, 리뷰 시스템, JWT 인증, 커뮤니티 검색 등 전반 구현 (PDF 참고) |
-
----
 
 ## 💡 프로젝트 기획 의도
 
