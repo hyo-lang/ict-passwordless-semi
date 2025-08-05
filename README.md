@@ -67,8 +67,7 @@
 ---
 
 ## 📸 시연 이미지 및 시나리오
-
-> (준비중)
+<img width="409" height="350" alt="image" src="https://github.com/user-attachments/assets/11d16a59-da79-460a-bb10-5aaba70ab17c" />
 
 ---
 
